@@ -1,0 +1,12 @@
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\bin\Debug\net7.0\SlugSharp.deps.json
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\bin\Debug\net7.0\SlugSharp.dll
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\bin\Debug\net7.0\SlugSharp.pdb
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\SlugSharp.csproj.AssemblyReference.cache
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\SlugSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\SlugSharp.AssemblyInfoInputs.cache
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\SlugSharp.AssemblyInfo.cs
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\SlugSharp.csproj.CoreCompileInputs.cache
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\SlugSharp.dll
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\refint\SlugSharp.dll
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\SlugSharp.pdb
+D:\projects\open-source\slug-sharp\SlugSharp\src\SlugSharp\obj\Debug\net7.0\ref\SlugSharp.dll

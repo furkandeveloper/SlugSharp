@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\SlugSharp\\SlugSharp.csproj",
+      "projectUniqueName": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\src\\SlugSharp\\SlugSharp.csproj",
       "projectName": "SlugSharp",
-      "projectPath": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\SlugSharp\\SlugSharp.csproj",
+      "projectPath": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\src\\SlugSharp\\SlugSharp.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\SlugSharp\\obj\\",
+      "outputPath": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\src\\SlugSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furka\\AppData\\Roaming\\NuGet\\NuGet.Config",
