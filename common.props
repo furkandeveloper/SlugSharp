@@ -1,0 +1,23 @@
+<Project>
+    <PropertyGroup>
+        <Title>Slug Generator for .Net</Title>
+        <RepositoryType>Git</RepositoryType>
+        <NeutralLanguage>en-US</NeutralLanguage>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Version>1.0.0</Version>
+        <LangVersion>latest</LangVersion>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <RepositoryUrl>https://github.com/furkandeveloper/SlugSharp</RepositoryUrl>
+        <Authors>furkandeveloper</Authors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <EnableNETAnalyzers>true</EnableNETAnalyzers>
+        <Description>
+            This repository provides slug generator helper for .net
+        </Description>
+        <PackageTags>dotnet, slug, url</PackageTags>
+        <PackageReleaseNotes>
+            Initial release
+        </PackageReleaseNotes>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+</Project>
