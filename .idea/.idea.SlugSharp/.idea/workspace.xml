@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5a00b02-4a90-4a61-8018-0c37583ab6d1" name="Changes" comment="🙈 Add .gitignore file">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SlugSharp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SlugSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlugSharp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlugSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SlugSharp.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SlugSharp/SlugSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlugSharp/SlugSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/bin/Debug/net7.0/SlugSharp.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/bin/Debug/net7.0/SlugSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/bin/Debug/net7.0/SlugSharp.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/SlugSharp.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/ref/SlugSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/Debug/net7.0/refint/SlugSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/SlugSharp.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/SlugSharp.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/SlugSharp.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/rider.project.restore.info" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +16,7 @@
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Nt7DgOoVgDTaVoUjajCenR0F6S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,7 +50,7 @@
       <updated>1680471407746</updated>
       <workItem from="1680471409535" duration="646000" />
       <workItem from="1680562197099" duration="227000" />
-      <workItem from="1680562448360" duration="1463000" />
+      <workItem from="1680562448360" duration="1768000" />
     </task>
     <task id="LOCAL-00001" summary="🙈 Add .gitignore file">
       <created>1680563096815</created>
@@ -82,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680563096815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="🙈 Add .gitignore file">
+      <created>1680563959237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680563959237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
