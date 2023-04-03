@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlugSharp", "src\SlugSharp\SlugSharp.csproj", "{7FF36A69-27CF-4168-85BB-8B15D16677C5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{7D05D866-0394-4161-9440-3C9B7017FA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlugSharp.Console", "sample\SlugSharp.Console\SlugSharp.Console.csproj", "{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,13 @@ Global
 		{7FF36A69-27CF-4168-85BB-8B15D16677C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF36A69-27CF-4168-85BB-8B15D16677C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF36A69-27CF-4168-85BB-8B15D16677C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7FF36A69-27CF-4168-85BB-8B15D16677C5} = {30ABEC80-9C32-4522-984C-45A7A0E8F64C}
+		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D} = {7D05D866-0394-4161-9440-3C9B7017FA8B}
 	EndGlobalSection
 EndGlobal
