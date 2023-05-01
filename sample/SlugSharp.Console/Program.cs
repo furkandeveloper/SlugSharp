@@ -4,9 +4,9 @@ using SlugSharp;
 
 Console.WriteLine("Hello, World!");
 
-var slug = SlugGenerator.Generate(new[] { "C# ile Slug Oluşturma", "C# ile Slug Oluşturma", "C# ile Slug Oluşturma" });
+var slug = SlugGenerator.Generate(new[] { "This repository provides slug generator helper for dotnet", "This repository provides slug generator helper for dotnet", "This repository provides slug generator helper for dotnet" });
 
-var singleSlug = SlugGenerator.Generate("Benim uygulamam nasıl da güzel slug üretiyor beeğğğ");
+var singleSlug = SlugGenerator.Generate("This repository provides slug generator helper for dotnet");
 
 Console.WriteLine(slug);
 
