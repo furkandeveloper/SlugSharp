@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5a00b02-4a90-4a61-8018-0c37583ab6d1" name="Changes" comment="♻️ Change sample slugs">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SlugSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlugSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlugSharp/SlugSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlugSharp/SlugSharp.csproj" afterDir="false" />
+    <list default="true" id="d5a00b02-4a90-4a61-8018-0c37583ab6d1" name="Changes" comment="📦️ Add package icon">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlugSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SlugSharp.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <workItem from="1680562197099" duration="227000" />
       <workItem from="1680562448360" duration="3232000" />
       <workItem from="1681074381944" duration="1488000" />
-      <workItem from="1682975112448" duration="610000" />
+      <workItem from="1682975112448" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="🙈 Add .gitignore file">
       <created>1680563096815</created>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682975466235</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="📦️ Add package icon">
+      <created>1682975808122</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682975808122</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +154,7 @@
     <MESSAGE value="♻️ Change slug generator" />
     <MESSAGE value=" Add console sample application" />
     <MESSAGE value="♻️ Change sample slugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="♻️ Change sample slugs" />
+    <MESSAGE value="️ Add package icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="️ Add package icon" />
   </component>
 </project>
