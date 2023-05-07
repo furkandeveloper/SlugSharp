@@ -19,3 +19,35 @@ If you liked the project or if **SlugSharp** helped you, please give a star.
 **Slug Sharp** provides slug generator helper for dotnet
 
 ***
+
+### How To Use?
+
+#### Install Package
+```
+dotnet add package SlugSharp
+```
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47147484/169529159-8f400ad7-922b-43f3-867f-4eeb93aa724b.png" style="max-width:100%;" height="40" />
+</p>
+
+#### Generating Slugs with a Single Parameter
+
+```csharp
+var slug = SlugGenerator.Generate("This repository provides slug generator helper for dotnet");
+```
+
+#### Generating Slugs with a Multiple Parameter
+
+```csharp
+var slug = SlugGenerator.Generate(new[] { "This repository provides slug generator helper for dotnet", "This repository provides slug generator helper for dotnet", "This repository provides slug generator helper for dotnet" });
+```
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47147484/169529159-8f400ad7-922b-43f3-867f-4eeb93aa724b.png" style="max-width:100%;" height="40" />
+</p>
+
+#### Response
+```
+this-repository-provides-slug-generator-helper-for-dotnet
+```
