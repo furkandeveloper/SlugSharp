@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: "\U0001F3AF Custom issue template"
 about: Describe this issue template's purpose here.
 title: "\U0001F3AF [CUSTOM]"
 labels: question
