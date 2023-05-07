@@ -10,6 +10,15 @@
 
 ***
 
+| Source     | Badges                |
+| :------- | :------------------------- |
+| `Code Quality` | [![Maintainability](https://api.codeclimate.com/v1/badges/63101ab83504f0bbe880/maintainability)](https://codeclimate.com/github/furkandeveloper/SlugSharp/maintainability) |
+| `License` | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  |
+| `CI` | [![.NET](https://github.com/furkandeveloper/SlugSharp/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/furkandeveloper/SlugSharp/actions/workflows/dotnet.yml)  |
+| `Github Activity` | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/furkandeveloper/SlugSharp) ![GitHub contributors](https://img.shields.io/github/contributors/furkandeveloper/SlugSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/furkandeveloper/SlugSharp) ![GitHub search hit counter](https://img.shields.io/github/search/furkandeveloper/SlugSharp/SlugSharp) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/furkandeveloper/SlugSharp) ![GitHub repo size](https://img.shields.io/github/repo-size/furkandeveloper/SlugSharp)|
+| `Languages` | ![GitHub top language](https://img.shields.io/github/languages/top/furkandeveloper/SlugSharp) |
+| `Issue Tracking` | ![GitHub issues](https://img.shields.io/github/issues/furkandeveloper/SlugSharp) ![GitHub closed issues](https://img.shields.io/github/issues-closed/furkandeveloper/SlugSharp) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/furkandeveloper/SlugSharp) ![GitHub pull requests](https://img.shields.io/github/issues-pr/furkandeveloper/SlugSharp) | |
+
 ## Give a Star 🌟
 If you liked the project or if **SlugSharp** helped you, please give a star.
 
