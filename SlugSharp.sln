@@ -1,19 +1,26 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33626.354
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{30ABEC80-9C32-4522-984C-45A7A0E8F64C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43378E54-2495-4713-8952-81FAC586D510}"
 	ProjectSection(SolutionItems) = preProject
-		common.props = common.props
 		.gitignore = .gitignore
+		common.props = common.props
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlugSharp", "src\SlugSharp\SlugSharp.csproj", "{7FF36A69-27CF-4168-85BB-8B15D16677C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlugSharp", "src\SlugSharp\SlugSharp.csproj", "{7FF36A69-27CF-4168-85BB-8B15D16677C5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{7D05D866-0394-4161-9440-3C9B7017FA8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlugSharp.Console", "sample\SlugSharp.Console\SlugSharp.Console.csproj", "{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlugSharp.Console", "sample\SlugSharp.Console\SlugSharp.Console.csproj", "{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0F58113F-FF05-43C9-B048-1FB576A48E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlugSharp.Tests", "src\SlugSharp.Tests\SlugSharp.Tests.csproj", "{DD4FCA0B-4F28-42DC-86EA-610139BE3B36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,9 +36,17 @@ Global
 		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4FCA0B-4F28-42DC-86EA-610139BE3B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4FCA0B-4F28-42DC-86EA-610139BE3B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4FCA0B-4F28-42DC-86EA-610139BE3B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4FCA0B-4F28-42DC-86EA-610139BE3B36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7FF36A69-27CF-4168-85BB-8B15D16677C5} = {30ABEC80-9C32-4522-984C-45A7A0E8F64C}
 		{EB565AD8-A3C3-41EA-8883-F77157D3BF8D} = {7D05D866-0394-4161-9440-3C9B7017FA8B}
+		{DD4FCA0B-4F28-42DC-86EA-610139BE3B36} = {0F58113F-FF05-43C9-B048-1FB576A48E62}
 	EndGlobalSection
 EndGlobal
