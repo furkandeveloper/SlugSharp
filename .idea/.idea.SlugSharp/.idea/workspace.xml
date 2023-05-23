@@ -7,7 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5a00b02-4a90-4a61-8018-0c37583ab6d1" name="Changes" comment="" />
+    <list default="true" id="d5a00b02-4a90-4a61-8018-0c37583ab6d1" name="Changes" comment="🔨 Upgrade package version">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SlugSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlugSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.props" beforeDir="false" afterPath="$PROJECT_DIR$/common.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/SlugSharp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlugSharp/obj/SlugSharp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlugSharp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SlugSharp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlugSharp/obj/project.nuget.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +94,7 @@
       <workItem from="1681074381944" duration="1488000" />
       <workItem from="1682975112448" duration="1799000" />
       <workItem from="1683491419313" duration="1257000" />
+      <workItem from="1684870569176" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="🙈 Add .gitignore file">
       <created>1680563096815</created>
@@ -159,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683492079457</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="🔨 Upgrade package version">
+      <created>1684870923532</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684870923532</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +192,7 @@
     <MESSAGE value=" Add README file" />
     <MESSAGE value="♻️ Update workspace.xml" />
     <MESSAGE value=" Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Update README.md" />
+    <MESSAGE value=" Upgrade package version" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Upgrade package version" />
   </component>
 </project>
