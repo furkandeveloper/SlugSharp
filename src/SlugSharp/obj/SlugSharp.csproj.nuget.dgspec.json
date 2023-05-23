@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\src\\SlugSharp\\SlugSharp.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\src\\SlugSharp\\SlugSharp.csproj",
         "projectName": "SlugSharp",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Unidecode.NET": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,17 +1,51 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETStandard,Version=v2.1": {
+      "Unidecode.NET/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Unidecode.NET.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Unidecode.NET.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Unidecode.NET/2.1.0": {
+      "sha512": "AY7AC9+8wOgKY/RNol7BTiVk6BO46l0+O2TtwUdhRneixRzxYW278bd+AtCe13P1iU8hG1hdICa2UJyHzx95nA==",
+      "type": "package",
+      "path": "unidecode.net/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard1.2/Unidecode.NET.dll",
+        "lib/netstandard1.2/Unidecode.NET.xml",
+        "lib/netstandard2.0/Unidecode.NET.dll",
+        "lib/netstandard2.0/Unidecode.NET.xml",
+        "lib/netstandard2.1/Unidecode.NET.dll",
+        "lib/netstandard2.1/Unidecode.NET.xml",
+        "unidecode.net.2.1.0.nupkg.sha512",
+        "unidecode.net.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": []
+    ".NETStandard,Version=v2.1": [
+      "Unidecode.NET >= 2.1.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\furka\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\src\\SlugSharp\\SlugSharp.csproj",
       "projectName": "SlugSharp",
@@ -45,6 +79,12 @@
     "frameworks": {
       "netstandard2.1": {
         "targetAlias": "netstandard2.1",
+        "dependencies": {
+          "Unidecode.NET": {
+            "target": "Package",
+            "version": "[2.1.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

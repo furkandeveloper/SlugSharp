@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "A7932gZBcleUNn3n4WqCxEAB8BBhncE9WGgE/L7uRCzzpM0fauFPXfkBF16/inCpWnTQVsruUedziySnlrIuRw==",
+  "dgSpecHash": "6vAJ4psR+WlXHuce5Cp9bTTS5S2tjOuyxkwN1JvfAMJiVNK2E16tMnzyGClHfzZ9d6MPSluqH7ZWQBkFUOFhfw==",
   "success": true,
   "projectFilePath": "D:\\projects\\open-source\\slug-sharp\\SlugSharp\\src\\SlugSharp\\SlugSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\unidecode.net\\2.1.0\\unidecode.net.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
