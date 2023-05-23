@@ -9,4 +9,7 @@
         </None>
     </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Unidecode.NET" Version="2.1.0" />
+  </ItemGroup>
 </Project>

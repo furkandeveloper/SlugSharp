@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
+using Unidecode.NET;
 
 namespace SlugSharp;
 
@@ -9,9 +10,9 @@ public static class SlugGenerator
     public static string Generate(IEnumerable<string> inputStrings)
     {
         var outputStrings = (from inputString in inputStrings
-            select RemoveTurkishChars(inputString.ToLowerInvariant())
+            select (inputString.Unidecode().ToLowerInvariant())
             into slug
-            select Regex.Replace(slug, @"[^a-z0-9\s-]", "")
+            select Regex.Replace(slug, @"[^a-z0-9\s-]", string.Empty)
             into slug
             select Regex.Replace(slug, @"\s+", " ").Trim()
             into slug
@@ -24,28 +25,6 @@ public static class SlugGenerator
 
     public static string Generate(string inputString)
     {
-        return Generate(new[] { inputString.ToLowerInvariant() });
-    }
-
-    private static string RemoveTurkishChars(string text)
-    {
-        var turkishChars = new Dictionary<string, string>
-        {
-            { "ı", "i" },
-            { "ğ", "g" },
-            { "ü", "u" },
-            { "ş", "s" },
-            { "ö", "o" },
-            { "ç", "c" },
-            { "İ", "i" },
-            { "Ğ", "g" },
-            { "Ü", "u" },
-            { "Ş", "s" },
-            { "Ö", "o" },
-            { "Ç", "c" }
-        };
-
-        return turkishChars.Aggregate(text,
-            (current, turkishChar) => current.Replace(turkishChar.Key, turkishChar.Value));
+        return Generate(new[] { inputString });
     }
 }
